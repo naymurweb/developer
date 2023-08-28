@@ -30,3 +30,43 @@ h4 {
   font-size: 30px;
   color: #181818;
 }
+a {
+  color: #474747;
+  font-size: 20px;
+}
+
+.text-orange {
+  color: #fd6e0a;
+}
+/* share style */
+
+.primaryBtn {
+  background-color: #fd6e0a;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 30px;
+}
+
+/* navbar style*/
+.header{
+  background-color:#FFF8F3;;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.navbar > ul {
+  display: flex;
+  align-items: center;
+}
+
+.navbar li {
+  list-style: none;
+  margin-right: 50px;
+}
+.navbar a {
+  text-decoration: none;
+}
