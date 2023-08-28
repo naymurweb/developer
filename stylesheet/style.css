@@ -55,6 +55,16 @@ a {
   padding: 15px 30px;
   cursor: pointer;
 }
+.secondaryBtn {
+  background-color: #fff8f3;
+  border: 1px solid #fd6e0a;
+  color: #fd6e0a;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 30px;
+  cursor: pointer;
+}
 
 /* navbar style*/
 .header {
@@ -68,7 +78,7 @@ a {
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: 0 80px;
+  padding: 0 100px;
 }
 .navbar > ul {
   display: flex;
@@ -88,9 +98,10 @@ a {
 .banner {
   display: flex;
   justify-content: space-between;
+  gap: 50px;
   align-items: center;
   margin-top: 40px;
-  padding: 0px 80px;
+  padding: 0px 100px;
 }
 
 .banner-content h3 {
