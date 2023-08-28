@@ -35,6 +35,7 @@ h5 {
   font-size: 20px;
   color: #181818;
 }
+
 a {
   color: #474747;
   font-size: 20px;
@@ -75,11 +76,13 @@ a {
   background-position: bottom right, center left;
   padding: 50px 30px 0 30px;
 }
+
 .navbar {
   display: flex;
   justify-content: space-between;
   padding: 0 100px;
 }
+
 .navbar > ul {
   display: flex;
   align-items: center;
@@ -112,6 +115,7 @@ a {
 .banner-content p {
   margin: 20px 0 30px 0;
 }
+
 .button-group button {
   margin-right: 30px;
 }
@@ -122,6 +126,7 @@ main {
   max-width: 1140px;
   margin: 0 auto;
 }
+
 main section,
 footer {
   margin-top: 120px;
@@ -141,6 +146,7 @@ footer {
   font-size: 20px;
   margin-bottom: 5px;
 }
+
 .about-info {
   display: flex;
   justify-content: space-around;
@@ -150,6 +156,7 @@ footer {
 .skills-section {
   text-align: center;
 }
+
 .skills-section > p {
   margin: 30px 0 50px 0;
 }
@@ -158,6 +165,7 @@ footer {
   display: flex;
   gap: 25px;
 }
+
 .skill {
   padding: 30px;
   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
@@ -180,6 +188,7 @@ footer {
   text-align: center;
   margin-bottom: 80px;
 }
+
 .resume-card {
   margin: 30px 0;
 }
@@ -192,6 +201,7 @@ footer {
 hr {
   margin-top: 30px;
 }
+
 .btn-devison {
   text-align: center;
   margin-top: 30px;
@@ -202,6 +212,7 @@ hr {
   background-color: #fff8f3;
   padding: 120px;
 }
+
 .footer-container {
   max-width: 1140px;
   margin: 0 auto;
