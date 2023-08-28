@@ -119,6 +119,7 @@ footer {
   background-color: #fff8f3;
   padding: 120px;
   text-align: center;
+  border-radius: 10px;
 }
 
 .about .pra {
@@ -132,4 +133,26 @@ footer {
 .about-info {
   display: flex;
   justify-content: space-around;
+}
+
+/* skills section */
+.skills-section {
+  text-align: center;
+}
+.skills-section > p {
+  margin: 30px 0 50px 0;
+}
+
+.skills {
+  display: flex;
+  gap: 25px;
+}
+.skill {
+  padding: 30px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
+}
+
+.skill h5 {
+  margin: 35px 0 20px 0;
 }
